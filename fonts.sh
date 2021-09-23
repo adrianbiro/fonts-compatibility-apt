@@ -9,11 +9,6 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
 #
 #################################################################################
-#   To run this script, write in terminal: 
-#				1, cd directory-name-here* 
-#				2, bash script-name-here.sh
-#					*directory where is stored file
-#################################################################################
 clear
 echo "#################################################################"
 echo "Shell Script for better compatibility with Microsoft Office fonts"
