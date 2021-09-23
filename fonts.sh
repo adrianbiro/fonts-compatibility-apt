@@ -10,7 +10,7 @@
 #
 #################################################################################
 #   To run this script, write in terminal: 
-#				1, ls directory-name-here* 
+#				1, cd directory-name-here* 
 #				2, bash script-name-here.sh
 #					*directory where is stored file
 #################################################################################
