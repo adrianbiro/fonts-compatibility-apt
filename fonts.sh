@@ -21,7 +21,7 @@ sudo apt install -y fonts-crosextra-caladea
 sudo apt install -y fonts-linuxlibertine
 #
 # Package fonts-liberation contains free variants of the Times, Arial an Courier fonts
-#sudo apt install -y ttf-mscorefonts-installer
+sudo apt install -y ttf-mscorefonts-installer
 #
 echo "################################################################"
 echo "################### Fonts installed! ###########################"
